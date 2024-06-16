@@ -1,0 +1,15 @@
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\bin\Debug\net7.0\funcionesyvectores.exe
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\bin\Debug\net7.0\funcionesyvectores.deps.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\bin\Debug\net7.0\funcionesyvectores.runtimeconfig.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\bin\Debug\net7.0\funcionesyvectores.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\bin\Debug\net7.0\funcionesyvectores.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.csproj.AssemblyReference.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.AssemblyInfoInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.AssemblyInfo.cs
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.csproj.CoreCompileInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\refint\funcionesyvectores.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\funcionesyvectores.genruntimeconfig.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\funcionesyvectores\obj\Debug\net7.0\ref\funcionesyvectores.dll

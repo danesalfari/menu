@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "funcionesyvectores/1.0.0": {
+        "runtime": {
+          "funcionesyvectores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "funcionesyvectores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

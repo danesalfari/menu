@@ -1,0 +1,30 @@
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.csproj.AssemblyReference.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.AssemblyInfoInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.AssemblyInfo.cs
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\bin\Debug\net7.0\menu.exe
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\bin\Debug\net7.0\menu.deps.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\bin\Debug\net7.0\menu.runtimeconfig.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\bin\Debug\net7.0\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\bin\Debug\net7.0\menu.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\refint\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\menu.genruntimeconfig.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\PROGRAMACION EN JAVA C#\menu\obj\Debug\net7.0\ref\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.csproj.AssemblyReference.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.AssemblyInfoInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.AssemblyInfo.cs
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\refint\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\bin\Debug\net7.0\menu.exe
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\bin\Debug\net7.0\menu.deps.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\bin\Debug\net7.0\menu.runtimeconfig.json
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\bin\Debug\net7.0\menu.dll
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\bin\Debug\net7.0\menu.pdb
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\menu.genruntimeconfig.cache
+C:\Users\danes\OneDrive\Desktop\SENA\TRIMESTRE II\CODIGO PROGRAMACION EN C# JAVA\menu\obj\Debug\net7.0\ref\menu.dll

@@ -1,0 +1,18 @@
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.csproj.AssemblyReference.cache
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.AssemblyInfoInputs.cache
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.AssemblyInfo.cs
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.csproj.CoreCompileInputs.cache
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\bin\Debug\net7.0\primermurillo.exe
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\bin\Debug\net7.0\primermurillo.deps.json
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\bin\Debug\net7.0\primermurillo.runtimeconfig.json
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\bin\Debug\net7.0\primermurillo.dll
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\bin\Debug\net7.0\primermurillo.pdb
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.dll
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\refint\primermurillo.dll
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.pdb
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\primermurillo.genruntimeconfig.cache
+C:\Users\danes\OneDrive\Desktop\SESIONES GAMINERIA\CODIGO PRIMER TALLER CICLOS\primermurillo\obj\Debug\net7.0\ref\primermurillo.dll
+C:\Users\danes\Desktop\SENA\FASE II\CODIGO CLASE MURILLO\C#\menu\bin\primermurillo\obj\Debug\net7.0\primermurillo.dll
+C:\Users\danes\Desktop\SENA\FASE II\CODIGO CLASE MURILLO\C#\menu\bin\primermurillo\obj\Debug\net7.0\refint\primermurillo.dll
+C:\Users\danes\Desktop\SENA\FASE II\CODIGO CLASE MURILLO\C#\menu\bin\primermurillo\obj\Debug\net7.0\primermurillo.pdb
